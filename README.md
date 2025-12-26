@@ -29,5 +29,5 @@ Dedicated to: ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-blac
 
 Welcome 🎉🎉 [![Visitor Count](https://komarev.com/ghpvc/?username=WinterPu&color=green&style=flat-square)](http://winterpu.github.io/) 
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterPu&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=WinterPu&count_private=true&show_icons=true" height=145/></span>](http://winterpu.github.io/)
+[<span><img src="https://github-readme-stats-fast.vercel.app/api?username=WinterPu&count_private=true&show_icons=true" height=145/></span>](http://winterpu.github.io/)
 
